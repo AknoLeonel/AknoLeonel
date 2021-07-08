@@ -34,5 +34,3 @@ alt="Mysql" width="40" height="40" style="max-width:100%;"></img>
 
 <a href="https://www.instagram.com/akno_leonel/" target="_blank">
 <img align="center" alt="Leonel-Instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"> 
-
-.
