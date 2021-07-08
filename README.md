@@ -7,6 +7,8 @@
 :telescope:<i>“Dada a vastidão do espaço e na imensidão do tempo, é uma alegria poder compartilhar um planeta e uma época com Annie” </i>:telescope:
 
 <h1> Minhas Skills: </h1>
+
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
  alt="Python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
