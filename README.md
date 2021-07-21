@@ -6,6 +6,8 @@
 
 :telescope:<i>“Dada a vastidão do espaço e na imensidão do tempo, é uma alegria poder compartilhar um planeta e uma época com Annie” </i>:telescope:
 
+Se você chegou no meu perfil por curiosidade aqui no Git, venha conhecer meu site <3: www.akno.online
+
 <h1> Minhas Skills: </h1>
 
 <p align="left">
