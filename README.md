@@ -1,6 +1,6 @@
 # Hello World! :computer:
 
- Prazer meu nome é Leonel, e você esta no perfil de um iniciante da programação, atualmente estou aprendendo de forma autodidata a como ser um programador eficiente! 
+ Prazer meu nome é Leonel, e você esta no perfil de um aspirante da programação, atualmente estou aprendendo de forma autodidata a como ser um programador eficiente! 
  Tenho interesses em Astronomia e Física, e no futuro pretendo seguir carreira como Astrofísico! ⚛️
 <b> print('Espero que gostem do meu perfil') </b>
 
