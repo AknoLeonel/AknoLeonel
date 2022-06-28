@@ -1,14 +1,12 @@
 # Hello World! :computer:
 
- Prazer meu nome é Leonel, e você esta no perfil de um aspirante da programação, atualmente estou aprendendo de forma autodidata a como ser um programador eficiente! 
- Tenho interesses em Astronomia e Física, e no futuro pretendo seguir carreira como Astrofísico! ⚛️
-<b> print('Espero que gostem do meu perfil') </b>
+ Pleasure! my name is Leonel and you are in the profile of an incipient data science.⚛️
+Currently specializing in Big Data, Machine Learning, Data Science and A.I...⚛️
 
-:telescope:<i>“Dada a vastidão do espaço e na imensidão do tempo, é uma alegria poder compartilhar um planeta e uma época com Annie” </i>:telescope:
+:telescope:<i>“In the vastness of space and the immensity of time, it is my joy to share a planet and an epoch with Annie” </i>:telescope:
 
-Se você chegou no meu perfil por curiosidade aqui no Git, venha conhecer meu site <3: www.akno.online
 
-<h1> Minhas Skills: </h1>
+<h1> Skills: </h1>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
