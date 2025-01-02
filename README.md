@@ -1,9 +1,6 @@
 # Hello World! :computer:
 
-Hey guys,
-My name is Leonel Paiva, I'm 19 years old, I'm from Brasília-DF
-Studying Data Science, but since the age of 16 I've been in the programming area, I intend to continue as a Data Scientist until I graduate in Astrophysics!
-I have a good base of Python, JavaScript... notions of Data Analysis and Machine Learning.🔭
+Oi, sou Leonel Paiva, 21 anos, de Brasília-DF. Estou cursando Ciência de Dados e tenho experiência em programação desde os 16 anos. Tenho boa base em Python, JavaScript, Análise de Dados e Aprendizado de Máquina, e planejo seguir como Cientista de Dados até me formar em Astrofísica.🔭
 
 :telescope:<i>“In the vastness of space and the immensity of time, it is my joy to share a planet and an epoch with Annie” </i>:telescope:
 
