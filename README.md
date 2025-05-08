@@ -34,4 +34,4 @@ alt="Mysql" width="40" height="40" style="max-width:100%;"></img>
 <h2> Redes Sociais:</h2>
 
 <a href="https://linktr.ee/akno_tech" target="_blank">
-<img align="center" alt="Leonel-Instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"> 
+<img align="center" alt="Link de Contato" height="40" width="40" src=""> 
