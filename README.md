@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AknoLeonel.AknoLeonel&left_text=VISITANTES&left_color=%230D1117&right_color=%233A0CA3" height="28" />
   <a href="https://www.instagram.com/muvageof"><img src="https://img.shields.io/badge/INSTAGRAM-@muvageof-FF00E4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /></a>
-  <a href="#-ls-portfolio"><img src="https://img.shields.io/badge/PORTFÓLIO-16%20sites%20no%20ar-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://aknoleonel.github.io"><img src="https://img.shields.io/badge/PORTFÓLIO-16%20sites%20no%20ar-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 ---
@@ -73,6 +73,7 @@ class LeonelPaiva:
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2500&pause=600&color=FF00E4&center=true&vCenter=true&width=600&lines=16+sites+em+produ%C3%A7%C3%A3o;Clientes+reais+%E2%80%A2+Neg%C3%B3cios+reais;Clique+em+uma+categoria+para+explorar+%E2%86%93" />
 </p>
 
+<!-- PORTFOLIO:START -->
 <details open>
 <summary><b>🚗 Automotivo</b> · 4 sites</summary>
 <br>
@@ -133,6 +134,7 @@ class LeonelPaiva:
 | **Tabela Periódica JS** | Tabela periódica interativa | JavaScript | [![](https://img.shields.io/badge/▶_ACESSAR-FF00E4?style=flat-square&labelColor=0D1117)](https://tabelajs.vercel.app) |
 
 </details>
+<!-- PORTFOLIO:END -->
 
 ---
 
@@ -185,7 +187,7 @@ class LeonelPaiva:
 
 <p align="center">
   <a href="https://www.instagram.com/muvageof"><img src="https://img.shields.io/badge/-@muvageof-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E4" /></a>
-  <a href="#-ls-portfolio"><img src="https://img.shields.io/badge/-Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
+  <a href="https://aknoleonel.github.io"><img src="https://img.shields.io/badge/-aknoleonel.github.io-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
   <a href="https://github.com/AknoLeonel?tab=repositories"><img src="https://img.shields.io/badge/-Repositórios-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
 </p>
 
