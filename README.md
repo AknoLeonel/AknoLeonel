@@ -11,8 +11,8 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AknoLeonel.AknoLeonel&left_text=VISITANTES&left_color=%230D1117&right_color=%233A0CA3" height="28" />
-  <a href="https://www.akno.online"><img src="https://img.shields.io/badge/WEBSITE-akno.online-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://linktr.ee/akno_tech"><img src="https://img.shields.io/badge/LINKTREE-akno__tech-FF00E4?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://www.instagram.com/muvageof"><img src="https://img.shields.io/badge/INSTAGRAM-@muvageof-FF00E4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /></a>
+  <a href="#-ls-portfolio"><img src="https://img.shields.io/badge/PORTFÓLIO-16%20sites%20no%20ar-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 ---
@@ -66,6 +66,76 @@ class LeonelPaiva:
 
 ---
 
+<!-- ═══════════════════  PORTFOLIO  ═══════════════════ -->
+## `> ls ./portfolio`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2500&pause=600&color=FF00E4&center=true&vCenter=true&width=600&lines=16+sites+em+produ%C3%A7%C3%A3o;Clientes+reais+%E2%80%A2+Neg%C3%B3cios+reais;Clique+em+uma+categoria+para+explorar+%E2%86%93" />
+</p>
+
+<details open>
+<summary><b>🚗 Automotivo</b> · 4 sites</summary>
+<br>
+
+| Projeto | O que é | Stack | |
+|:--|:--|:--|:--:|
+| **AM Auto Center** | Mecânica em Formosa do Rio Preto - BA | TypeScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://am-auto-center.vercel.app) |
+| **Auto Socorro DF** | Guincho 24h em Brasília | Astro | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://autosocorrodf.vercel.app) |
+| **Guincho Brasília** | Auto socorro 24h no DF | Astro | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://guincho-brasilia.vercel.app) |
+| **Oficina Guará** | Especialista em 4x4 e pick-ups | JavaScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://oficina-guara.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>🩺 Saúde & Bem-estar</b> · 2 sites</summary>
+<br>
+
+| Projeto | O que é | Stack | |
+|:--|:--|:--|:--:|
+| **Instituto Bodylife** | Saúde integrada no Guará-DF | React · TypeScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://instituto-bodylife-react.vercel.app) |
+| **Reviva Saúde e Beleza** | Clínica de saúde e estética | TypeScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://reviva-saude.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>⚽ Esporte & Eventos</b> · 4 sites</summary>
+<br>
+
+| Projeto | O que é | Stack | |
+|:--|:--|:--|:--:|
+| **ABLF** | Associação Brasileira de Ligas de Futsal | JavaScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://ablf-2025.vercel.app) |
+| **Nova Geração Futsal** | Escola de futsal | JavaScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://nova-geracao-futsal.vercel.app) |
+| **Monumental** | Estruturas para eventos | TypeScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://monumental-site.vercel.app) |
+| **PipiEasy** | Aluguel de banheiro químico em Brasília | HTML · CSS | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://banheiros-pipi-easy.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>💼 Negócios & Instituições</b> · 5 sites</summary>
+<br>
+
+| Projeto | O que é | Stack | |
+|:--|:--|:--|:--:|
+| **REALIZA Agro** | Venda de fazendas e regularização fundiária | TypeScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://lp-fazendas-tau.vercel.app) |
+| **AD Veras Advocacia** | Escritório tributário, trabalhista e previdenciário | JavaScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://ad-veras.vercel.app) |
+| **Mi Impressoras** | Loja de impressoras | JavaScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://impressoras-web.vercel.app) |
+| **AHMDF Missionários** | Site institucional | TypeScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://site-missionarios.vercel.app) |
+| **Vanguarda Kids** | Loja de brinquedos | JavaScript | [![](https://img.shields.io/badge/▶_ACESSAR-00F5FF?style=flat-square&labelColor=0D1117)](https://brinquedos-theta.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>🧪 Projetos pessoais</b> · 1 site</summary>
+<br>
+
+| Projeto | O que é | Stack | |
+|:--|:--|:--|:--:|
+| **Tabela Periódica JS** | Tabela periódica interativa | JavaScript | [![](https://img.shields.io/badge/▶_ACESSAR-FF00E4?style=flat-square&labelColor=0D1117)](https://tabelajs.vercel.app) |
+
+</details>
+
+---
+
 <!-- ═══════════════════  STATS  ═══════════════════ -->
 ## `> run telemetry.sh`
 
@@ -114,8 +184,8 @@ class LeonelPaiva:
 ## `> ping leonel`
 
 <p align="center">
-  <a href="https://www.akno.online"><img src="https://img.shields.io/badge/-Portfólio-0D1117?style=for-the-badge&logo=astro&logoColor=00F5FF" /></a>
-  <a href="https://linktr.ee/akno_tech"><img src="https://img.shields.io/badge/-Todas%20as%20redes-0D1117?style=for-the-badge&logo=linktree&logoColor=FF00E4" /></a>
+  <a href="https://www.instagram.com/muvageof"><img src="https://img.shields.io/badge/-@muvageof-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E4" /></a>
+  <a href="#-ls-portfolio"><img src="https://img.shields.io/badge/-Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
   <a href="https://github.com/AknoLeonel?tab=repositories"><img src="https://img.shields.io/badge/-Repositórios-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
 </p>
 
