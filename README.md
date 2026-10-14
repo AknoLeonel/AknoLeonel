@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AknoLeonel&style=for-the-badge&color=3A0CA3&label=VISITANTES" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AknoLeonel.AknoLeonel&left_text=VISITANTES&left_color=%230D1117&right_color=%233A0CA3" height="28" />
   <a href="https://www.akno.online"><img src="https://img.shields.io/badge/WEBSITE-akno.online-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://linktr.ee/akno_tech"><img src="https://img.shields.io/badge/LINKTREE-akno__tech-FF00E4?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0D1117" /></a>
 </p>
@@ -27,11 +27,11 @@ class LeonelPaiva:
         self.base       = "Brasília-DF 🇧🇷"
         self.curso      = "Ciência de Dados"
         self.codando_ha = "desde os 16"
-        self.stack      = ["Python", "JavaScript", "TypeScript", "ML", "Análise de Dados"]
-        self.missao     = "Cientista de Dados → Astrofísico 🔭"
+        self.stack      = ["Python", "JS", "TS", "ML", "Dados"]
+        self.missao     = "Dados → Astrofísica 🔭"
 
     def status(self):
-        return "Explorando dados aqui na Terra até explorar o universo lá fora."
+        return "Explorando dados na Terra, de olho no universo."
 ```
 
 <p align="center">
@@ -82,15 +82,16 @@ class LeonelPaiva:
 <summary><b>📡 Clique para ver o gráfico de atividade</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AknoLeonel&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=FF00E4&area=true&area_color=3A0CA3&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AknoLeonel&theme=radical" width="100%" />
 </p>
 </details>
 
 <details>
-<summary><b>🏆 Clique para ver os troféus</b></summary>
+<summary><b>🕒 Clique para ver quando eu mais codo</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AknoLeonel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AknoLeonel&theme=radical&utcOffset=-3" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AknoLeonel&theme=radical" width="49%" />
 </p>
 </details>
 
