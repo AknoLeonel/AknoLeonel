@@ -66,6 +66,26 @@ class LeonelPaiva:
 
 ---
 
+<!-- ═══════════════════  DATA SCIENCE  ═══════════════════ -->
+## `> python -m exoplanetas`
+
+<p align="center">
+  <a href="https://github.com/AknoLeonel/exoplanetas">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AknoLeonel/exoplanetas/main/reports/figuras/periodo-raio-escuro.png">
+      <img src="https://raw.githubusercontent.com/AknoLeonel/exoplanetas/main/reports/figuras/periodo-raio-claro.png" width="88%" alt="Diagrama período × raio de 4.780 exoplanetas, mostrando o deserto de Netunos quentes">
+    </picture>
+  </a>
+</p>
+
+**[exoplanetas](https://github.com/AknoLeonel/exoplanetas)**: análise e Machine Learning com os **6.445 exoplanetas confirmados** da NASA.
+
+- 🪐 Modelo que estima o raio de um planeta com **erro mediano de 18,6%**, contra 29,1% de uma lei de potência
+- 🔬 Sem vazamento de dados: exclui as 3.032 massas que a NASA calcula a partir do raio e valida agrupando por estrela
+- 🛰️ Dados atualizados todo mês por GitHub Actions; CI confere que o pipeline reproduz cada número do README
+
+---
+
 <!-- ═══════════════════  PORTFOLIO  ═══════════════════ -->
 ## `> ls ./portfolio`
 
